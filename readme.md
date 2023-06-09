@@ -3,9 +3,9 @@
 ## Quels modèles d'imprimantes 3D choisir?
 
 Selon votre budget, les modèles d'imprimantes 3D suivants sont recommandés:
-- **Autour de 300 euros:** Anycubic Kobra 2, Creality Ender 3 S1
-- **Autour de 600 euros:** FLSun v400, Creality K1
-- **Plus de 1000 euros:** Prusa MK4, Bambulab X1
+- **Autour de 300 euros:** [Anycubic Kobra 2](https://www.anycubic.fr/products/anycubic-kobra-2), [Creality Ender 3 S1](https://store.creality.com/eu/products/ender-3-s1-3d-printer)
+- **Autour de 650 euros:** [FLSun v400](https://flsun3d.com/products/flsun-v400?variant=42441543090344), [Creality K1](https://store.creality.com/eu/products/k1-speedy-3d-printer)
+- **Plus de 1000 euros:** [Prusa MK4](https://www.prusa3d.com/fr/produit/original-prusa-mk4-2/), [Bambulab X1](https://eu.store.bambulab.com/fr-fr/products/x1-carbon-3d-printer)
 
 ## Resources
 
